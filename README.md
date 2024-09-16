@@ -36,14 +36,3 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sp3EdQQ/Sp3EdQQ/output/snake.svg" alt="Snake animation" />
-
-###
