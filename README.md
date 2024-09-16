@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Barto and I'm a FrontEnd dev, from Poland</h2>
+<h2 align="left">Hi 👋! My name is Barto and I'm a Front-end dev, from Poland</h2>
 
 <div align="center">
   <a href="https://discord.com/users/626455324060286991">
