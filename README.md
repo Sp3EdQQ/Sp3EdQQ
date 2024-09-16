@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/5xf3CcDWMe0AAAAC/miku-nakano-cute.gif"  />
+<img align="center" src="https://media1.tenor.com/m/5xf3CcDWMe0AAAAC/miku-nakano-cute.gif"  />
 
 ###
 
