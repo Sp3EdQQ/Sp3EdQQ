@@ -33,8 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  ###
+[![Discord Presence](https://lanyard.cnrad.dev/api/626455324060286991)](https://discord.com/users/626455324060286991)
 </div>
 
-###
-[![Discord Presence](https://lanyard.cnrad.dev/api/626455324060286991)](https://discord.com/users/626455324060286991)
+
 ###
