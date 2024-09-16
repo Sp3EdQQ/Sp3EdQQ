@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Barto and I'm a FrontEnd dev, from Poland</h2>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/626455324060286991)](https://discord.com/users/626455324060286991)
+
 ##
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sp3EdQQ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
