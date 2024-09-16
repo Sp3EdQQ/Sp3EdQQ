@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Barto and I'm a FrontEnd dev, from Poland</h2>
 
 ###
 
@@ -35,4 +35,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
+###
+[![Discord Presence](https://lanyard.cnrad.dev/api/626455324060286991)](https://discord.com/users/626455324060286991)
 ###
