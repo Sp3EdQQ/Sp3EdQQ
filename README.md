@@ -11,10 +11,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sp3EdQQ&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
-    <img src="https://media1.tenor.com/m/cx58GMZrBWkAAAAd/miku-mad-nakano-miku.gif" height="150" alt="Miku gif" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sp3EdQQ&theme=kacho_ga&hide_border=true" height="150" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sp3EdQQ&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph">
-
 </div>
 
 
