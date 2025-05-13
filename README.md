@@ -21,8 +21,8 @@
 ##
 
 <div align="center">
-My currently stack: 
-<br><br>
+  My current stack:
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -41,9 +41,21 @@ My currently stack:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="30" alt="webstorm logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dotnet logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="30" alt="visual studio logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="asp.net core logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/microsoft/0078D7" height="30" alt="razor pages / microsoft logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/entityframework/512BD4" height="30" alt="entity framework logo" />
   <br><br>
-  I know also:
+  I also know:
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
 </div>
+
 
