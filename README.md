@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dotnet logo" />
   <img width="12" />
-  <img src="[https://cdn.simpleicons.org/visualstudio/5C2D91](https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000)" height="30" alt="visual studio logo" />
+  <img src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" height="30" alt="visual studio logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="asp.net core logo" />
   <img width="12" />
