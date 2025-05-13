@@ -45,9 +45,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dotnet logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" height="30" alt="visual studio logo" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="30" alt="visual studio logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="asp.net core logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
 </div>
 
