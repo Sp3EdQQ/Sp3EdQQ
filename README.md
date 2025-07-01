@@ -1,12 +1,5 @@
 <h2 align="left">Hi 👋! My name is Barto and I'm a Front-end developer from Poland</h2>
 
-<div align="center">
-  <a href="https://discord.com/users/626455324060286991">
-    <img src="https://lanyard.cnrad.dev/api/626455324060286991" alt="Discord Presence" />
-  </a>
-</div>
-
----
 
 <div align="center">
   <strong>My current tech stack:</strong><br><br>
