@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Barto and I'm a Front-end developer from Poland</h2>
---
+
 # 📂 My Projects
 
 Below is a categorized list of my projects. Each project contains a brief description and a link to the repository.
